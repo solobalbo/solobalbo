@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm solobalbo!
+# Hi there, I'm solobalbo!
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=solobalbo&label=Profile%20views&color=blueviolet" alt="solobalbo profile views"/>
@@ -10,7 +10,7 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+### Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,django,nodejs,mongodb,postgresql" />
@@ -20,7 +20,7 @@
 ---
 
 
-### 📊 My GitHub Stats:
+### Most Used Languages:
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solobalbo&layout=compact&theme=vision-friendly-dark" alt="solobalbo's most used languages" />
   <!--
