@@ -19,13 +19,15 @@
 
 ---
 
-<!--
+
 ### 📊 My GitHub Stats:
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solobalbo&layout=compact&theme=vision-friendly-dark" alt="solobalbo's most used languages" />
+  <!--
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=solobalbo&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark&cache_seconds=3600" alt="solobalbo's GitHub stats" />
+  -->
 </p>
--->
+
 
 
 ---
