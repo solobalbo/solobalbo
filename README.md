@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  I'm a Full-Stack Developer and a passionate Open Source Enthusiast.
+  Full-Stack Developer and Open Source Enthusiast.
 </div>
 
 ---
