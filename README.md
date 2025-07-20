@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  Full-Stack Developer and Open Source Enthusiast.
+  Full-Stack Developer, Entrepreneur, and Open Source Enthusiast.
 </div>
 
 ---
