@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi there, I'm solobalbo!
 
-<!--
-**solobalbo/solobalbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=solobalbo&label=Profile%20views&color=blueviolet" alt="solobalbo profile views"/>
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
+  I'm a Full-Stack Developer and a passionate Open Source Enthusiast.
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages and Tools:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,django,react" />
+  </a>
+</p>
+
+---
+
+### 📊 My GitHub Stats:
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solobalbo&layout=compact&theme=vision-friendly-dark" alt="solobalbo's most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=solobalbo&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark&cache_seconds=3600" alt="solobalbo's github stats" />
+</p>
+
+---
+
+### 🌟 Projects I Admire
+Here are some of the projects that inspire me:
+- **[torvalds/linux](https://github.com/torvalds/linux)** - The Linux kernel.
+- **[bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)** - The original Bitcoin client and blockchain.
+- **[nostr-protocol/nostr](https://github.com/nostr-protocol/nostr)** - A decentralized social network protocol.
+- **[Chermann-KING/oypunu](https://github.com/Chermann-KING/oypunu)** - An interesting project I'm following.
+
+---
+
+### 📫 Let's Connect
+<p align="center">
+  <a href="https://primal.net/p/nprofile1qqsrrk3zznv58dkm9xzghln78nuwcquqq9zpfurvmkcwatxf4ujs3cssgehcf" target="_blank">
+    <img src="https://img.shields.io/badge/Nostr-8E44AD?style=for-the-badge&logo=nostr&logoColor=white" alt="Nostr"/>
+  </a>
+  <a href="mailto:dadajamesk@protonmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-dadakoko@tutanota.com-blue?style=for-the-badge&logo=tutanota&logoColor=white" alt="Email"/>
+  </a>
+</p>
